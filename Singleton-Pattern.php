@@ -31,6 +31,7 @@ class ConnectDb {
   public function getConnection()
   {
     return $this->conn;
+    
   }
 }
 
